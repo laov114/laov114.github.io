@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lao V的个人博客</title>
+  
+  <subtitle>写些什么好呢...</subtitle>
+  <link href="https://laov114.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://laov114.github.io/"/>
+  <updated>2025-06-05T13:12:51.001Z</updated>
+  <id>https://laov114.github.io/</id>
+  
+  <author>
+    <name>Lao V</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎来到Lao V的个人博客</title>
+    <link href="https://laov114.github.io/2025/05/05/welcome-to-my-blog/"/>
+    <id>https://laov114.github.io/2025/05/05/welcome-to-my-blog/</id>
+    <published>2025-05-05T09:00:00.000Z</published>
+    <updated>2025-06-05T13:12:51.001Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="欢迎光临"><a href="#欢迎光临" class="headerlink" title="欢迎光临"></a>欢迎光临</h2><p>大家好，欢迎来到我的个人博客！我是Lao V，目前是一名学生，正在学习编程技术。</p><p>在这里，我会记录一些我的个人随笔与见解。</p><p>（不过我也不知道我会写什么，毕竟也没人看就是了）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;欢迎光临&quot;&gt;&lt;a href=&quot;#欢迎光临&quot; class=&quot;headerlink&quot; title=&quot;欢迎光临&quot;&gt;&lt;/a&gt;欢迎光临&lt;/h2&gt;&lt;p&gt;大家好，欢迎来到我的个人博客！我是Lao V，目前是一名学生，正在学习编程技术。&lt;/p&gt;
+&lt;p&gt;在这里，我会记录一些我的个人</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://laov114.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="介绍" scheme="https://laov114.github.io/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
+    <category term="博客" scheme="https://laov114.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
