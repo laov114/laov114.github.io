@@ -32,7 +32,7 @@ skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
-default_layout: post
+default_layout: draft
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -104,3 +104,44 @@ deploy:
   type: 'git'
   repo: https://github.com/laov114/laov114.github.io
   branch: main
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    langPrefix: 'language-'
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  enable_rules:
+  disable_rules:
+  plugins:
+    - markdown-it-footnote # 脚注
+    - markdown-it-sub   # ~下标~
+    - markdown-it-sup   # ^上标^
+    - markdown-it-mark  # ==高亮==
+    - markdown-it-emoji # 可以渲染:cat:这种emoji
+    - markdown-it-task-lists # 任务列表 checkbox
+    - '@renbaoshuo/markdown-it-katex'
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
+  images:
+    lazyload: true
+    prepend_root: true
+    post_asset: true
+  inline: false  # https://markdown-it.github.io/markdown-it/#MarkdownIt.renderInline
