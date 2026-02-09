@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>欢迎来到Lao V的个人博客</title>
+    <url>/2025/05/05/welcome-to-my-blog/</url>
+    <content><![CDATA[<h2 id="欢迎光临">欢迎光临</h2>
+<p>大家好，欢迎来到我的个人博客！我是Lao V，目前是一名学生，正在学习编程技术。</p>
+<p>在这里，我会记录一些我的个人随笔与见解。</p>
+<p>（不过，真的会有人看吗？）</p>
+<p>链接：</p>
+<ul>
+<li><a href="https://github.com/laov114">GitHub</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>介绍</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2026.02.09</title>
+    <url>/2026/02/09/20260209/</url>
+    <content><![CDATA[<p>天又黑了。路灯照亮了树冠的一角。窗外看不见月亮，也看不见星星，只有楼房上的几扇窗户发出暗淡的光线。似乎有烟花燃放的声音，可我看不见绽放的烟火。</p>
+<p>房间里只有一盏落地灯，如夕阳般亮着，渲染了昏黄的氛围。落满灰尘的时钟咔哒咔哒地作响。座椅已经被坐破皮。一旁的墙壁也是，时不时掉下一块墙皮或一些灰尘。一部分只剩下内部灰色的水泥墙面。房门紧锁，其外侧的钥匙孔插着一把掰弯的钥匙，是一个钥匙扣上挂着的三把钥匙中的一把，然而这三把钥匙都打不开门。地板上、桌面上都堆放着杂物，其中有些是书，还有些别的东西。窗帘只留了一条缝，好让我窥探窗外世界。</p>
+<p>以前，我觉得一天很长，甚至连一小时也觉得足够漫长了。现在，我觉得一天很短，时间总是在不经意间溜走了。我不想浪费这些时间，可我不知道做什么。本来想出门散步，但最后还是不了了之。我戴上了耳机，放了几首歌，可这不能掩盖我的空虚。</p>
+<p>唉。明明没干什么，却觉得很累，为什么呢？</p>
+]]></content>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个性签名</title>
+    <url>/2026/02/07/%E4%B8%AA%E6%80%A7%E7%AD%BE%E5%90%8D/</url>
+    <content><![CDATA[<p>正弦与余弦的相交又相离，恰似人生常态。</p>
+<img src="/2026/02/07/%E4%B8%AA%E6%80%A7%E7%AD%BE%E5%90%8D/image.png" class="" title="正弦曲线与余弦曲线">
+]]></content>
+  </entry>
+  <entry>
+    <title>瞬时速度</title>
+    <url>/2026/01/17/%E7%9E%AC%E6%97%B6%E9%80%9F%E5%BA%A6/</url>
+    <content><![CDATA[<p>瞬时速度，是表示物体在某一时刻或经过某一位置时的速度，其计算公式如图所示。可以发现，瞬时速度与你一共走了多远、走了多久无关。有关的是，你现在想走快点，还是想走慢点。</p>
+<img src="/2026/01/17/%E7%9E%AC%E6%97%B6%E9%80%9F%E5%BA%A6/%E5%85%AC%E5%BC%8F.png" class="" title="瞬时速度的计算公式">
+]]></content>
+      <tags>
+        <tag>感想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>热胀冷缩</title>
+    <url>/2026/01/06/%E7%83%AD%E8%83%80%E5%86%B7%E7%BC%A9/</url>
+    <content><![CDATA[<p>热胀冷缩是指物体受热时会膨胀，遇冷时会收缩的特性。温度高时，体积增加，质量不变，密度减小；温度低时，体积减小，质量不变，密度增加。人受到的亲热太多，内心不免膨胀；人遭遇的冷落太多，内心难免怅然若失。</p>
+]]></content>
+      <tags>
+        <tag>感想</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2025我的年度总结</title>
     <url>/2026/01/01/2025%E6%88%91%E7%9A%84%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</url>
     <content><![CDATA[<h1><strong>2025我的年度总结</strong></h1>
@@ -73,32 +131,6 @@
       </tags>
   </entry>
   <entry>
-    <title>欢迎来到Lao V的个人博客</title>
-    <url>/2025/05/05/welcome-to-my-blog/</url>
-    <content><![CDATA[<h2 id="欢迎光临">欢迎光临</h2>
-<p>大家好，欢迎来到我的个人博客！我是Lao V，目前是一名学生，正在学习编程技术。</p>
-<p>在这里，我会记录一些我的个人随笔与见解。</p>
-<p>（不过，真的会有人看吗？）</p>
-<p>链接：</p>
-<ul>
-<li><a href="https://github.com/laov114">GitHub</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>介绍</tag>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个性签名</title>
-    <url>/2026/02/07/%E4%B8%AA%E6%80%A7%E7%AD%BE%E5%90%8D/</url>
-    <content><![CDATA[<p>正弦与余弦的相交又相离，恰似人生常态。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>希望之光</title>
     <url>/2025/06/07/%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%85%89/</url>
     <content><![CDATA[<h1><strong>希望之光</strong></h1>
@@ -128,25 +160,6 @@
       </categories>
       <tags>
         <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>瞬时速度</title>
-    <url>/2026/01/17/%E7%9E%AC%E6%97%B6%E9%80%9F%E5%BA%A6/</url>
-    <content><![CDATA[<p>瞬时速度，是表示物体在某一时刻或经过某一位置时的速度，其计算公式如图所示。可以发现，瞬时速度与你一共走了多远、走了多久无关。有关的是，你现在想走快点，还是想走慢点。</p>
-<img src="/2026/01/17/%E7%9E%AC%E6%97%B6%E9%80%9F%E5%BA%A6/%E5%85%AC%E5%BC%8F.png" class="" title="瞬时速度的计算公式">
-]]></content>
-      <tags>
-        <tag>感想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>热胀冷缩</title>
-    <url>/2026/01/06/%E7%83%AD%E8%83%80%E5%86%B7%E7%BC%A9/</url>
-    <content><![CDATA[<p>热胀冷缩是指物体受热时会膨胀，遇冷时会收缩的特性。温度高时，体积增加，质量不变，密度减小；温度低时，体积减小，质量不变，密度增加。人受到的亲热太多，内心不免膨胀；人遭遇的冷落太多，内心难免怅然若失。</p>
-]]></content>
-      <tags>
-        <tag>感想</tag>
       </tags>
   </entry>
 </search>
